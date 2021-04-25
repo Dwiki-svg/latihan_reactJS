@@ -1,10 +1,10 @@
 import React from 'react'
-import Test1 from './component/test1'
+import PageHeading from './component/PageHeading'
 
 export default function App() {
   return (
     <div>
-      <Test1/>
+      <PageHeading/>
     </div>
   )
 }
