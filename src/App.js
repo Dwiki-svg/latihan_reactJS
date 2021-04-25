@@ -1,10 +1,10 @@
 import React from 'react'
-import PageHeading from './component/PageHeading'
+import ButtonT from './component/ButtonT'
 
 export default function App() {
   return (
     <div>
-      <PageHeading/>
+      <ButtonT/>
     </div>
   )
 }
