@@ -1,10 +1,10 @@
 import React from 'react'
-import ButtonT from './component/ButtonT'
+import Menu from './component/Menu'
 
 export default function App() {
   return (
     <div>
-      <ButtonT/>
+      <Menu />
     </div>
   )
 }
